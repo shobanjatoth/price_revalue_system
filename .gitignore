@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual Environment
+showman/
+
+# MLflow tracking data (very heavy, do not push to GitHub)
+mlruns/
+mlflow.db
+
+# Data & Artifacts (datasets and trained model weights should be kept local)
+data/
+artifacts/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store

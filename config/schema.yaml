@@ -1,0 +1,15 @@
+columns:
+  # "Unnamed: 0": "int64"
+  "Car Name": "object"
+  "Year": "float64"
+  "Distance": "int64"
+  "Owner": "int64"
+  "Fuel": "object"
+  "Location": "object"
+  "Drive": "object"
+  "Type": "object"
+  "Price": "int64"
+
+target_column: "Price_log"
+strict: true
+
