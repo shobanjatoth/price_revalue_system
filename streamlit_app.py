@@ -414,7 +414,7 @@ set_bg("jpg.avif")
 # API URL
 # -------------------------------
 # API_URL = "https://your-api-name.onrender.com/predict"
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://price-api-0c6p.onrender.com"
 
 # -------------------------------
 # Title (BLUE + OUTSIDE CARD)

@@ -226,7 +226,7 @@ mlflow.db
 
 # Data & Artifacts (datasets and trained model weights should be kept local)
 data/
-artifacts/
+
 
 # Python caching
 __pycache__/
